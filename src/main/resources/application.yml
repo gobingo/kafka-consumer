@@ -1,0 +1,6 @@
+server:
+  port: 8181
+
+kafka:
+  broker-list: localhost:9092
+  topic: test
